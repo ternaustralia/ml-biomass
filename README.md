@@ -1,6 +1,7 @@
 # ml-biomass
 An example of linking TERN AusCover field and image data to predict biomass
 <img src='http://www.auscover.org.au/wp-content/themes/auscover/assets/images/logo.png'>
+[![DOI](https://zenodo.org/badge/89922939.svg)](https://zenodo.org/badge/latestdoi/89922939)
 
 
 #### A demonstration on linking field data to image data using machine learning
